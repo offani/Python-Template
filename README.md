@@ -1,4 +1,4 @@
-# End-to-end-ML-Project
+# Costomize Template for Python Project folder
 
 ```bash
 conda create -n <Srcfoldername> python=3.8 -y
